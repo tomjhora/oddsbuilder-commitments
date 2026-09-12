@@ -1,0 +1,66 @@
+{
+  "kind": "submission-receipt",
+  "season": 2026,
+  "seasonType": "regular",
+  "week": 1,
+  "contestVariant": "Circa Million Extended",
+  "contestVariantSource": "observed, from the proxy's confirmation subject line",
+  "allConfirmed": true,
+  "submissionConfirmedAt": "2026-09-12T18:56:00Z",
+  "attests": [
+    {
+      "status": "confirmed",
+      "batchRoot": "be3688c98a465e7848b7dbb5af670ab90d7d30817b09ed0bb3f14d2f22c58309",
+      "boardName": "Oddsbuilder.app",
+      "proxyEntryId": "39487-1",
+      "confirmedAt": "2026-09-12T18:55:00Z",
+      "evidence": {
+        "kind": "email-subject",
+        "ref": "Email subject: Re: 39487-1 - Week 1 Picks - Circa Million Extended (received 2026-09-12 11:55 AM PT)",
+        "heldBy": "owner inbox (not published)"
+      },
+      "batches": [
+        {
+          "file": "2026/regular/circa-card/week-01--2026-09-12T15-40-01-710Z.json",
+          "kind": "circa-card",
+          "committedAt": "2026-09-12T15:40:01.710Z"
+        },
+        {
+          "file": "2026/regular/circa-card/week-01--2026-09-12T16-35-10-265Z.json",
+          "kind": "circa-card",
+          "committedAt": "2026-09-12T16:35:10.265Z",
+          "supersedes": "be3688c98a465e7848b7dbb5af670ab90d7d30817b09ed0bb3f14d2f22c58309"
+        }
+      ]
+    },
+    {
+      "status": "confirmed",
+      "batchRoot": "b04490d3a31170b11ecec00cacf922d7364b43e42a96ed5069ab899894c129bd",
+      "boardName": "OddsBuilder.app-1",
+      "proxyEntryId": "39487-2",
+      "confirmedAt": "2026-09-12T18:56:00Z",
+      "evidence": {
+        "kind": "email-subject",
+        "ref": "Email subject: Re: 39487-2 - Week 1 Picks - Circa Million Extended (received 2026-09-12 11:56 AM PT)",
+        "heldBy": "owner inbox (not published)"
+      },
+      "batches": [
+        {
+          "file": "2026/regular/circa-card-entry2/week-01--2026-09-12T16-35-10-351Z.json",
+          "kind": "circa-card-entry2",
+          "committedAt": "2026-09-12T16:35:10.351Z"
+        }
+      ]
+    }
+  ],
+  "submittedVia": {
+    "role": "contest proxy",
+    "note": "identity held by the owner; not published here",
+    "entryIdMap": {
+      "39487-1": "Oddsbuilder.app",
+      "39487-2": "OddsBuilder.app-1"
+    }
+  },
+  "recordedAt": "2026-09-12T21:41:29.029Z",
+  "note": "A receipt is a LATER fact that POINTS AT a commitment. It never modifies the batch it attests to: that batch's value is that it has not been touched since it was published before submission."
+}
