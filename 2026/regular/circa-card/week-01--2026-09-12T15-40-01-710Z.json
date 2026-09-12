@@ -1,0 +1,19 @@
+{
+  "canonVersion": "v2",
+  "kind": "circa-card",
+  "season": 2026,
+  "seasonType": "regular",
+  "week": 1,
+  "committedAt": "2026-09-12T15:40:01.710Z",
+  "earliestKickoff": "2026-09-13T17:00:00.000Z",
+  "pickCount": 5,
+  "batchRoot": "be3688c98a465e7848b7dbb5af670ab90d7d30817b09ed0bb3f14d2f22c58309",
+  "hashes": [
+    "6d44e1928c16d92650a5502418857dbfa82aaf70dadaa26386f4c29fb45f55b2",
+    "79f0133221ffb19c4f97ee077b8d2c90689533f3f5e02661b1647bdac86550a4",
+    "a954ee1fa2392c5ef8333603474945cb0b0b0c22a3fbe774d68fc2301e8c52f3",
+    "ee63ff98155e3d69fee0fe19c138b0356f99d51074c362659ff9aa6d74da69cc",
+    "f9502d5a35183b4a59cde4592cff372d6f2637acb385c29058b5fcf53b6a8fdc"
+  ],
+  "howToVerify": "http://localhost:5173/verify"
+}
