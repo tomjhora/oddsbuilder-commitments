@@ -1,0 +1,79 @@
+{
+  "kind": "submission-receipt",
+  "season": 2026,
+  "seasonType": "regular",
+  "week": 2,
+  "contestVariant": "Circa Million Extended",
+  "contestVariantSource": "observed, from the proxy's confirmation subject line",
+  "allConfirmed": true,
+  "submissionConfirmedAt": "2026-09-19T20:44:00Z",
+  "attests": [
+    {
+      "status": "confirmed",
+      "batchRoot": "8301bbc1e11de53e523373626a135f23e10ea488dbfe3aad570c35d2f8d43322",
+      "boardName": "Oddsbuilder.app",
+      "proxyEntryId": "39487-1",
+      "confirmedAt": "2026-09-19T20:43:00Z",
+      "proxySubmittedAt": "2026-09-19T18:03:00Z",
+      "proxySubmittedAtSource": "the proxy's stated submission time, from the confirmation, as reported by the owner",
+      "pickCheck": {
+        "matched": 5,
+        "of": 5,
+        "method": "the confirmation's listed picks, as a set, against circaRelay.enteredLine over the committed batch; picks not reproduced here (public file, pre-reveal)"
+      },
+      "etsn": null,
+      "etsnAbsent": "not provided: the proxy's confirmation did not include the 12-digit ETSN",
+      "evidence": {
+        "kind": "email-subject",
+        "ref": "Email subject: 39487-1 - Week 2 Picks - Circa Million Extended (received 2026-09-19 1:43 PM PT)",
+        "heldBy": "owner inbox (not published)"
+      },
+      "batches": [
+        {
+          "file": "2026/regular/circa-card/week-02--2026-09-19T17-56-07-613Z.json",
+          "kind": "circa-card",
+          "committedAt": "2026-09-19T17:56:07.613Z"
+        }
+      ]
+    },
+    {
+      "status": "confirmed",
+      "batchRoot": "227f8f5c1b5ff807c7045e1cce5c2fbc0d703c889e405ad138295aa48fbeb8cb",
+      "boardName": "OddsBuilder.app-1",
+      "proxyEntryId": "39487-2",
+      "confirmedAt": "2026-09-19T20:44:00Z",
+      "proxySubmittedAt": "2026-09-19T18:01:00Z",
+      "proxySubmittedAtSource": "the proxy's stated submission time, from the confirmation, as reported by the owner",
+      "pickCheck": {
+        "matched": 5,
+        "of": 5,
+        "method": "the confirmation's listed picks, as a set, against circaRelay.enteredLine over the committed batch; picks not reproduced here (public file, pre-reveal)"
+      },
+      "etsn": null,
+      "etsnAbsent": "not provided: the proxy's confirmation did not include the 12-digit ETSN",
+      "evidence": {
+        "kind": "email-subject",
+        "ref": "Email subject: 39487-2 - Week 2 Picks - Circa Million Extended (received 2026-09-19 1:44 PM PT)",
+        "heldBy": "owner inbox (not published)"
+      },
+      "batches": [
+        {
+          "file": "2026/regular/circa-card-entry2/week-02--2026-09-19T17-56-07-874Z.json",
+          "kind": "circa-card-entry2",
+          "committedAt": "2026-09-19T17:56:07.874Z"
+        }
+      ]
+    }
+  ],
+  "submittedVia": {
+    "role": "contest proxy",
+    "note": "identity held by the owner; not published here",
+    "entryIdMap": {
+      "39487-1": "Oddsbuilder.app",
+      "39487-2": "OddsBuilder.app-1"
+    }
+  },
+  "recordedAt": "2026-09-19T20:53:16.045Z",
+  "chainEndsAt": "the proxy's confirmation email — the ETSN (Circa Rule 12, the official entry of record) was not provided for 39487-1, 39487-2",
+  "note": "A receipt is a LATER fact that POINTS AT a commitment. It never modifies the batch it attests to: that batch's value is that it has not been touched since it was published before submission."
+}
