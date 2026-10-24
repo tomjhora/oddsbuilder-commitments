@@ -1,0 +1,20 @@
+{
+  "canonVersion": "v2",
+  "kind": "circa-card",
+  "season": 2026,
+  "seasonType": "regular",
+  "week": 7,
+  "committedAt": "2026-10-24T18:33:49.418Z",
+  "earliestKickoff": "2026-10-25T17:00:00.000Z",
+  "pickCount": 5,
+  "batchRoot": "3c7698b2260937ff602735221bdb52628a71cea239d453889538206ee22b170c",
+  "note": "Process note: the 11:00 AM PT relay target (circa_million_prespec.md §8b.14) was missed this week, a reportable miss. This is the 10:30 PT card: evaluated at 2026-10-24T17:30:00Z from the Pinnacle capture of 17:16:55Z, and production and a local rebuild produced it identically before this commit.",
+  "hashes": [
+    "79f14a9a9a1f7df3e161d0c8ca03887978db34273c05263a1f601e5454a07401",
+    "90adee11e2f2a58b9b7580c19474afc801f0b9ef6114904b261f13c0f0d985c8",
+    "9709207f349c3f6f0fa18e2b65d129f63f5822bf974bb4d668e964001c42f01c",
+    "a0ffa5351cd4c5dd5377e6599ca1455dfa33266ac565daff0abd580bf398f172",
+    "bd7599c3ff280e7298943222355df3aa7b23a25044e2961f3d5f64d05d95c96c"
+  ],
+  "howToVerify": "https://www.oddsbuilder.app/verify"
+}
