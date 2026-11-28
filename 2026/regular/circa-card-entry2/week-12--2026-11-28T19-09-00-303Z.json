@@ -1,0 +1,19 @@
+{
+  "canonVersion": "v2",
+  "kind": "circa-card-entry2",
+  "season": 2026,
+  "seasonType": "regular",
+  "week": 12,
+  "committedAt": "2026-11-28T19:09:00.303Z",
+  "earliestKickoff": "2026-11-29T18:00Z",
+  "pickCount": 5,
+  "batchRoot": "e2b38701bc0e4b5953ab3c4af37ea0eec28949d85f2786a454a88923fbdc550f",
+  "hashes": [
+    "24c0196a9109540a3ac1c1dacde795d5ed6740492239e4e74fbe13c0583342f6",
+    "5ed0bf2f5ee5e02c49106c66f0adf1155b1fe84840a2004619bf25e0c90c690a",
+    "92e57a921c5b836d6a54ef2add3d5c38bdc59f95c09572383fec82191c240bd8",
+    "c2b583b2540c4faefb282255b9cba157a691147e67792165566631d02da63cb7",
+    "f433eaffd8201a682a7785bf805e2649d84ce9a72505f65dcf18f79d895ac07e"
+  ],
+  "howToVerify": "https://www.oddsbuilder.app/verify"
+}
